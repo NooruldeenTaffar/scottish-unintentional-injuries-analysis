@@ -49,5 +49,3 @@ Data files are not included in this repo (the injuries dataset is large and the 
 
 - `scottish_injuries_analysis.R` — Task 1 (age/time trends) and Task 2 (JSON repair) in R
 - `scottish_injuries_analysis.py` — Task 1 (regional comparison) and Task 2 (JSON repair) in Python
-# scottish-unintentional-injuries-analysis
-Scottish unintentional injury admissions by age, year, and health board, plus a semi-structured JSON data-repair exercise. R and Python, dual implementation. PGDip Data Science project.
